@@ -197,7 +197,11 @@ display:center;
  margin-bottom: 0;
 }
 
-
+ .img,video{
+  width:100%;
+  height:auto;
+  max-width:100%;
+}
 
 .cardforcontact {
   /* Add shadows to create the "card" effect */
